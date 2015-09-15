@@ -1,0 +1,2 @@
+# gifparser
+GIF file parser
